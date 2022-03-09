@@ -1,0 +1,4 @@
+fast window capture 
+pyautogui
+
+use pytorch to train recognition, though needs to be same resolution as screenshots from pyautogui probably?
